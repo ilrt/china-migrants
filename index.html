@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>China Migrants Visualisation Experiments</title>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    @import url(force.css);
+
+    body {
+      margin: 0;
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    #map {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+
+    svg {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+
+    .mapboxgl-marker {
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+      border: 1px solid gray;
+      background-color: lightblue;
+    }
+
+    #legend {
+      display: hidden;
+      position: fixed;
+      bottom: 30px;
+      left: 10px;
+      margin-top: 10px;
+      margin-left: 10px;
+      z-index: 1000;
+
+      font-family: "Open Sans", sans-serif;
+      width: fit-content;
+      overflow: auto;
+      min-height: 160px;
+      background: white;
+      padding: 5px;
+      border: 3px solid black;
+    }
+
+    #legend dl dd {
+      display: inline;
+      margin: 0;
+    }
+
+    #legend dl dd:after {
+      display: block;
+      content: '';
+    }
+
+    #legend dl dt {
+      height: 10px;
+      width: 10px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    #controls {
+      position: fixed;
+      bottom: 10px;
+      left: 10px;
+
+      margin-top: 10px;
+      margin-left: 10px;
+      z-index: 1000;
+
+      font-family: "Open Sans", sans-serif;
+      width: 640px;
+      height: 160px;
+      background: white;
+      padding: 10px;
+      text-align: center;
+      border: 3px solid black;
+
+    }
+
+    #controls input {
+      display: block;
+    }
+
+    #yearrange {
+      position: fixed;
+      margin-top: 10px;
+      margin-left: 10px;
+      z-index: 1000;
+
+      font-family: "Open Sans", sans-serif;
+      width: 320px;
+      height: 160px;
+      background: white;
+      padding: 10px;
+      text-align: center;
+      border: 3px solid black;
+    }
+
+    #yearrange select {
+      text-align: center;
+      text-align-last: center;
+      -moz-text-align-last: center;
+      margin-bottom: 2px;
+    }
+
+    #yearselect {
+      position: fixed;
+      margin-top: 10px;
+      margin-left: 60px;
+      z-index: 1000;
+    }
+
+    .row0,
+    .row1,
+    .row2 {
+      text-align: center;
+    }
+
+    .row1 {
+      padding: 0 10px;
+    }
+
+    .row0 {
+      padding: 0 10px;
+    }
+
+    .row1.company {
+      border-bottom: 2px solid blue;
+    }
+
+    .row1.person {
+      border-bottom: 2px solid green;
+    }
+
+    .row1.location {
+      border-bottom: 2px solid orange;
+    }
+
+    .row2 {
+      padding: 0 10px 10px 10px;
+    }
+
+    .mapboxgl-popup-content {}
+  </style>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/geojson/0.4.1/geojson.min.js'></script>
+  <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!--
+  <script src="https://unpkg.com/d3-force-cluster@latest"></script>
+  -->
+  <script src="https://unpkg.com/d3-force-cluster@0.1.2/dist/d3-force-cluster.min.js"></script>
+  <script src="https://unpkg.com/netclustering@0.0.3/dist/netClustering.js"></script>
+  <!--
+  <script src="/china/demos/bilevel-edge-bundling2/netClustering.js"></script>
+  <script src="https://unpkg.com/force-in-a-box@1.0.1/dist/forceInABox.js"></script>
+  -->
+  <script src="https://unpkg.com/@seregpie/bron-kerbosch"></script>
+  <script src="forceInABox.js"></script>
+
+</head>
+
+<body>
+  <div id="yearrange">
+    <form id="filters" onchange="formChange()">
+      <span id="year" onmouseover='document.getElementById("yearRange").focus();'>Year</span>
+      <input type="range" class="form-range" id="yearRange"
+        oninput="document.getElementById('yeareval').innerText = document.getElementById('yearRange').value" min="1842"
+        max="1891" value="1842" autofocus="true" />
+      <span id="yeareval">1842</span>
+      <div>
+        Colour by:
+        <select id="clusterBy">
+          <option value="Company">Company</option>
+          <option value="Location">Location</option>
+          <option value="Occupation">Occupation</option>
+          <option value="Nationality">Nationality</option>
+          <option value="NetworkClustering">Network Clustering</option>
+          <option value="BronKerborsch">Bron Kerborsch</option>
+        </select>
+      </div>
+      <div>
+        <select id="selectCompany">
+          <option value="na">Filter by company</option>
+        </select>
+      </div>
+      <div>
+        <select id="selectLocation">
+          <option value="na">Filter by location</option>
+        </select>
+      </div>
+      <div>
+        <select id="selectOccupation">
+          <option value="na">Filter by person's occupation</option>
+        </select>
+      </div>
+      <div>
+        <select id="selectNationality">
+          <option value="na">Filter by person's nationality</option>
+        </select>
+      </div>
+      <div>
+        <button onclick="document.getElementById('filters').reset()">Reset Filters</button>
+      </div>
+    </form>
+  </div>
+  <div id="legend">
+  </div>
+  <div id="map"></div>
+  <!--
+  <script type="text/javascript" src="force.js"></script>
+  -->
+  <script>
+    $(document).ready(function () {
+      var randomNum = Math.ceil(Math.random() * 999999);
+      var jsfile = 'force.js?v=' + randomNum;
+      $.getScript(jsfile, function (data, textStatus, jqxhr) { });
+    });
+  </script>
+</body>
+
+</html>

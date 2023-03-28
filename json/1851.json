@@ -1,0 +1,147 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Oliver E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Wetmore & Company"
+            },
+            "id": "Oliver E Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Gilbert",
+                "GivenName": "William",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Gilbert"
+        },
+        {
+            "details": {
+                "Surname": "Everett",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Merchant",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Everett"
+        },
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Ernest",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ernest Deacon"
+        },
+        {
+            "details": {
+                "Surname": "Parker",
+                "GivenName": "Ebenezer Francis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ebenezer Francis Parker"
+        },
+        {
+            "details": {
+                "Surname": "Comstock",
+                "GivenName": "William",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Comstock Jr"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "John Everett",
+            "source": "William Gilbert",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "William Gilbert",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "William Comstock Jr",
+            "source": "William Gilbert",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "John Everett",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "William Comstock Jr",
+            "source": "John Everett",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "William Comstock Jr",
+            "source": "Ebenezer Francis Parker",
+            "target": "William Comstock Jr"
+        }
+    ]
+}

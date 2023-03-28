@@ -1,0 +1,34 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Richard",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "",
+                "Location": "Monaco",
+                "Company": ""
+            },
+            "id": "Richard Deacon"
+        },
+        {
+            "details": {
+                "Surname": "Ray",
+                "GivenName": "William Henry",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Secretary",
+                "Location": "Hong Kong",
+                "Company": "China Traders Insurance Company"
+            },
+            "id": "William Henry Ray"
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,369 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Heard"
+        },
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Augustine",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Augustine Heard Jr"
+        },
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Joseph L",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Joseph L Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Oliver E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Wetmore & Company"
+            },
+            "id": "Oliver E Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "Charles A",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Charles A Fearon"
+        },
+        {
+            "details": {
+                "Surname": "Gilbert",
+                "GivenName": "William",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Gilbert"
+        },
+        {
+            "details": {
+                "Surname": "Marques",
+                "GivenName": "Domingos P",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Domingos P Marques"
+        },
+        {
+            "details": {
+                "Surname": "Everett",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Merchant",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Everett"
+        },
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Ernest",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ernest Deacon"
+        },
+        {
+            "details": {
+                "Surname": "Comstock",
+                "GivenName": "William",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Comstock Jr"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Augustine Heard Jr",
+            "source": "John Heard",
+            "target": "Augustine Heard Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Joseph L Roberts",
+            "source": "John Heard",
+            "target": "Joseph L Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Oliver E Roberts",
+            "source": "John Heard",
+            "target": "Oliver E Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "William Gilbert",
+            "source": "John Heard",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Domingos P Marques",
+            "source": "John Heard",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "John Everett",
+            "source": "John Heard",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "William Comstock Jr",
+            "source": "John Heard",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Joseph L Roberts",
+            "source": "Augustine Heard Jr",
+            "target": "Joseph L Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "William Gilbert",
+            "source": "Augustine Heard Jr",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Domingos P Marques",
+            "source": "Augustine Heard Jr",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "John Everett",
+            "source": "Augustine Heard Jr",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "William Comstock Jr",
+            "source": "Augustine Heard Jr",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "William Gilbert",
+            "source": "Joseph L Roberts",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "Domingos P Marques",
+            "source": "Joseph L Roberts",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "John Everett",
+            "source": "Joseph L Roberts",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "William Comstock Jr",
+            "source": "Joseph L Roberts",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles A Fearon",
+            "target_id": "Ernest Deacon",
+            "source": "Charles A Fearon",
+            "target": "Ernest Deacon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "Domingos P Marques",
+            "source": "William Gilbert",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "John Everett",
+            "source": "William Gilbert",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "William Comstock Jr",
+            "source": "William Gilbert",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Domingos P Marques",
+            "target_id": "John Everett",
+            "source": "Domingos P Marques",
+            "target": "John Everett"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Domingos P Marques",
+            "target_id": "William Comstock Jr",
+            "source": "Domingos P Marques",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "William Comstock Jr",
+            "source": "John Everett",
+            "target": "William Comstock Jr"
+        }
+    ]
+}

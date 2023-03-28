@@ -1,0 +1,766 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Heard & Co"
+            },
+            "id": "John Heard"
+        },
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Augustine",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Heard & Co"
+            },
+            "id": "Augustine Heard Jr"
+        },
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Ernest",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Partner",
+                "Location": "Macau",
+                "Company": "Deacon & Company"
+            },
+            "id": "Ernest Deacon"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "Robert Inglis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Heard & Co"
+            },
+            "id": "Robert Inglis Fearon"
+        },
+        {
+            "details": {
+                "Surname": "de Figueiredo",
+                "GivenName": "Henrique Caetano Victor",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Heard & Co"
+            },
+            "id": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": {
+                "Surname": "Low",
+                "GivenName": "Edward Gilchrist",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Heard & Co"
+            },
+            "id": "Edward Gilchrist Low"
+        },
+        {
+            "details": {
+                "Surname": "Parker",
+                "GivenName": "Charles Edward",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Heard & Co"
+            },
+            "id": "Charles Edward Parker"
+        },
+        {
+            "details": {
+                "Surname": "Jenkins",
+                "GivenName": "Thomas Osgood Summers",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Heard & Co"
+            },
+            "id": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": {
+                "Surname": "da Costa",
+                "GivenName": "Polycarpo Antonio",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Hong Kong, Canton & Macao Steamboat Company"
+            },
+            "id": "Polycarpo Antonio da Costa"
+        },
+        {
+            "details": {
+                "Surname": "Fraser",
+                "GivenName": "John Alexander",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Yokohama",
+                "Company": "Heard & Co"
+            },
+            "id": "John Alexander Fraser"
+        },
+        {
+            "details": {
+                "Surname": "Farley",
+                "GivenName": "Gustavus",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Agent",
+                "Location": "Yokohama",
+                "Company": "Heard & Co"
+            },
+            "id": "Gustavus Farley Jr"
+        },
+        {
+            "details": {
+                "Surname": "Fonseca",
+                "GivenName": "Ramildo",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Heard & Co"
+            },
+            "id": "Ramildo Fonseca"
+        },
+        {
+            "details": {
+                "Surname": "Pinel",
+                "GivenName": "John",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Fuzhou",
+                "Company": "Heard & Co"
+            },
+            "id": "John Pinel Jr"
+        },
+        {
+            "details": {
+                "Surname": "Ray",
+                "GivenName": "William Henry",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Secretary",
+                "Location": "Hong Kong",
+                "Company": "China Traders Insurance Company"
+            },
+            "id": "William Henry Ray"
+        },
+        {
+            "details": {
+                "Surname": "Head",
+                "GivenName": "Francis Somerville",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Secretary",
+                "Location": "Hong Kong",
+                "Company": "Victoria Fire Insurance Company"
+            },
+            "id": "Francis Somerville Head"
+        },
+        {
+            "details": {
+                "Surname": "Oliver",
+                "GivenName": "George",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Agent",
+                "Location": "Fuzhou",
+                "Company": "Heard & Co"
+            },
+            "id": "George Oliver"
+        },
+        {
+            "details": {
+                "Surname": "Low",
+                "GivenName": "O",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Agent",
+                "Location": "Kobe",
+                "Company": "Heard & Co"
+            },
+            "id": "O Low"
+        },
+        {
+            "details": {
+                "Surname": "Livingston",
+                "GivenName": "H",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Kobe",
+                "Company": "Heard & Co"
+            },
+            "id": "H Livingston"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "George Dixwell",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Agent",
+                "Location": "Guangzhou",
+                "Company": "Heard & Co"
+            },
+            "id": "George Dixwell Fearon"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Augustine Heard Jr",
+            "source": "John Heard",
+            "target": "Augustine Heard Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "John Heard",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Charles Edward Parker",
+            "source": "John Heard",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "John Heard",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Augustine Heard Jr",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Charles Edward Parker",
+            "source": "Augustine Heard Jr",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "Augustine Heard Jr",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Jr",
+            "target_id": "Polycarpo Antonio da Costa",
+            "source": "Augustine Heard Jr",
+            "target": "Polycarpo Antonio da Costa"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Robert Inglis Fearon",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Robert Inglis Fearon",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Charles Edward Parker",
+            "source": "Robert Inglis Fearon",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "Robert Inglis Fearon",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Ramildo Fonseca",
+            "source": "Robert Inglis Fearon",
+            "target": "Ramildo Fonseca"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "John Pinel Jr",
+            "source": "Robert Inglis Fearon",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Charles Edward Parker",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Polycarpo Antonio da Costa",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Polycarpo Antonio da Costa"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "William Henry Ray",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "William Henry Ray"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Francis Somerville Head",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Francis Somerville Head"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "George Oliver",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "George Dixwell Fearon",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "George Dixwell Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "Charles Edward Parker",
+            "source": "Edward Gilchrist Low",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "Edward Gilchrist Low",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "Ramildo Fonseca",
+            "source": "Edward Gilchrist Low",
+            "target": "Ramildo Fonseca"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "John Pinel Jr",
+            "source": "Edward Gilchrist Low",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "Thomas Osgood Summers Jenkins",
+            "source": "Charles Edward Parker",
+            "target": "Thomas Osgood Summers Jenkins"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "Polycarpo Antonio da Costa",
+            "source": "Charles Edward Parker",
+            "target": "Polycarpo Antonio da Costa"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "William Henry Ray",
+            "source": "Charles Edward Parker",
+            "target": "William Henry Ray"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "Francis Somerville Head",
+            "source": "Charles Edward Parker",
+            "target": "Francis Somerville Head"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "George Oliver",
+            "source": "Charles Edward Parker",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "George Dixwell Fearon",
+            "source": "Charles Edward Parker",
+            "target": "George Dixwell Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Thomas Osgood Summers Jenkins",
+            "target_id": "Ramildo Fonseca",
+            "source": "Thomas Osgood Summers Jenkins",
+            "target": "Ramildo Fonseca"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Thomas Osgood Summers Jenkins",
+            "target_id": "John Pinel Jr",
+            "source": "Thomas Osgood Summers Jenkins",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Polycarpo Antonio da Costa",
+            "target_id": "William Henry Ray",
+            "source": "Polycarpo Antonio da Costa",
+            "target": "William Henry Ray"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Polycarpo Antonio da Costa",
+            "target_id": "Francis Somerville Head",
+            "source": "Polycarpo Antonio da Costa",
+            "target": "Francis Somerville Head"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Polycarpo Antonio da Costa",
+            "target_id": "George Oliver",
+            "source": "Polycarpo Antonio da Costa",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Polycarpo Antonio da Costa",
+            "target_id": "George Dixwell Fearon",
+            "source": "Polycarpo Antonio da Costa",
+            "target": "George Dixwell Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Alexander Fraser",
+            "target_id": "Gustavus Farley Jr",
+            "source": "John Alexander Fraser",
+            "target": "Gustavus Farley Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Alexander Fraser",
+            "target_id": "John Pinel Jr",
+            "source": "John Alexander Fraser",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Alexander Fraser",
+            "target_id": "O Low",
+            "source": "John Alexander Fraser",
+            "target": "O Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Gustavus Farley Jr",
+            "target_id": "John Pinel Jr",
+            "source": "Gustavus Farley Jr",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Gustavus Farley Jr",
+            "target_id": "O Low",
+            "source": "Gustavus Farley Jr",
+            "target": "O Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ramildo Fonseca",
+            "target_id": "John Pinel Jr",
+            "source": "Ramildo Fonseca",
+            "target": "John Pinel Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Pinel Jr",
+            "target_id": "George Oliver",
+            "source": "John Pinel Jr",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Henry Ray",
+            "target_id": "Francis Somerville Head",
+            "source": "William Henry Ray",
+            "target": "Francis Somerville Head"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Henry Ray",
+            "target_id": "George Oliver",
+            "source": "William Henry Ray",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Henry Ray",
+            "target_id": "George Dixwell Fearon",
+            "source": "William Henry Ray",
+            "target": "George Dixwell Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francis Somerville Head",
+            "target_id": "George Oliver",
+            "source": "Francis Somerville Head",
+            "target": "George Oliver"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francis Somerville Head",
+            "target_id": "George Dixwell Fearon",
+            "source": "Francis Somerville Head",
+            "target": "George Dixwell Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "O Low",
+            "target_id": "H Livingston",
+            "source": "O Low",
+            "target": "H Livingston"
+        }
+    ]
+}

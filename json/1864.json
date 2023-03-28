@@ -1,0 +1,3288 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Albert",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Albert Heard"
+        },
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "George",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "George Heard"
+        },
+        {
+            "details": {
+                "Surname": "Dixwell",
+                "GivenName": "George B",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "George B Dixwell"
+        },
+        {
+            "details": {
+                "Surname": "de Souza",
+                "GivenName": "Bernardo Duarte",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "Robert Inglis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Robert Inglis Fearon"
+        },
+        {
+            "details": {
+                "Surname": "Bridges",
+                "GivenName": "H G",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Agent",
+                "Location": "Jiujiang",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "H G Bridges"
+        },
+        {
+            "details": {
+                "Surname": "Parker",
+                "GivenName": "Ebenezer Francis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ebenezer Francis Parker"
+        },
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Richard",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Broker",
+                "Location": "Hong Kong",
+                "Company": ""
+            },
+            "id": "Richard Deacon"
+        },
+        {
+            "details": {
+                "Surname": "Weld",
+                "GivenName": "Daniel",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Daniel Weld"
+        },
+        {
+            "details": {
+                "Surname": "de Figueiredo",
+                "GivenName": "Henrique Caetano Victor",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": {
+                "Surname": "Weller",
+                "GivenName": "George Frederick",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Fuzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "George Frederick Weller"
+        },
+        {
+            "details": {
+                "Surname": "Wood",
+                "GivenName": "John William",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Scottish",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John William Wood"
+        },
+        {
+            "details": {
+                "Surname": "Cunningham",
+                "GivenName": "J S",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Agent",
+                "Location": "Tianjin",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "J S Cunningham"
+        },
+        {
+            "details": {
+                "Surname": "Hunter",
+                "GivenName": "William C",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William C Hunter"
+        },
+        {
+            "details": {
+                "Surname": "Hayward",
+                "GivenName": "J W",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "J W Hayward"
+        },
+        {
+            "details": {
+                "Surname": "Blake",
+                "GivenName": "Franklin",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Franklin Blake"
+        },
+        {
+            "details": {
+                "Surname": "Daly",
+                "GivenName": "Andrew Marcus",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Tea Inspector",
+                "Location": "Fuzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Andrew Marcus Daly"
+        },
+        {
+            "details": {
+                "Surname": "Low",
+                "GivenName": "Edward Gilchrist",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Edward Gilchrist Low"
+        },
+        {
+            "details": {
+                "Surname": "Nutt",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Tea Inspector",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Nutt"
+        },
+        {
+            "details": {
+                "Surname": "Williams",
+                "GivenName": "C D",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Agent",
+                "Location": "Hankou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "C D Williams"
+        },
+        {
+            "details": {
+                "Surname": "de Souza",
+                "GivenName": "Marcos",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hankou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Marcos de Souza"
+        },
+        {
+            "details": {
+                "Surname": "Stoddard",
+                "GivenName": "L H",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "L H Stoddard"
+        },
+        {
+            "details": {
+                "Surname": "van Reed",
+                "GivenName": "Eugene M",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Yokohama",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Eugene M van Reed"
+        },
+        {
+            "details": {
+                "Surname": "Stone",
+                "GivenName": "Frederick",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Frederick Stone"
+        },
+        {
+            "details": {
+                "Surname": "Seabra",
+                "GivenName": "Francisco Antonio",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Francisco Antonio Seabra"
+        },
+        {
+            "details": {
+                "Surname": "Parker",
+                "GivenName": "Charles Edward",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Charles Edward Parker"
+        },
+        {
+            "details": {
+                "Surname": "da Cruz",
+                "GivenName": "Ol\u00edmpi\u00f3 Augusto",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": {
+                "Surname": "Pereira",
+                "GivenName": "In\u00e1cio Pires",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": {
+                "Surname": "Gay",
+                "GivenName": "Arthur O",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Arthur O Gay"
+        },
+        {
+            "details": {
+                "Surname": "Amoore",
+                "GivenName": "H E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Tea Inspector",
+                "Location": "Hankou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "H E Amoore"
+        },
+        {
+            "details": {
+                "Surname": "de Silva",
+                "GivenName": "A A E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "A A E de Silva"
+        },
+        {
+            "details": {
+                "Surname": "Loring",
+                "GivenName": "William J",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William J Loring"
+        },
+        {
+            "details": {
+                "Surname": "Webb",
+                "GivenName": "G W",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Fuzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "G W Webb"
+        },
+        {
+            "details": {
+                "Surname": "Forrester",
+                "GivenName": "W O",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "W O Forrester"
+        },
+        {
+            "details": {
+                "Surname": "d'Aquino",
+                "GivenName": "J C",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "J C d'Aquino"
+        },
+        {
+            "details": {
+                "Surname": "de Chomus",
+                "GivenName": "E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "E de Chomus"
+        },
+        {
+            "details": {
+                "Surname": "Banker",
+                "GivenName": "W",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "W Banker"
+        },
+        {
+            "details": {
+                "Surname": "Mugford",
+                "GivenName": "C D",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Yokohama",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "C D Mugford"
+        },
+        {
+            "details": {
+                "Surname": "Grady",
+                "GivenName": "Henry Grove",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Yokohama",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Henry Grove Grady"
+        },
+        {
+            "details": {
+                "Surname": "Dechamps",
+                "GivenName": "E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "E Dechamps"
+        },
+        {
+            "details": {
+                "Surname": "Rohl",
+                "GivenName": "Edward",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Duddell & Company"
+            },
+            "id": "Edward Rohl"
+        },
+        {
+            "details": {
+                "Surname": "Rohl",
+                "GivenName": "Gustave",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Duddell & Company"
+            },
+            "id": "Gustave Rohl"
+        },
+        {
+            "details": {
+                "Surname": "Jackson",
+                "GivenName": "James",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "James Jackson Jr"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "George Heard",
+            "source": "Albert Heard",
+            "target": "George Heard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "George B Dixwell",
+            "source": "Albert Heard",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "Albert Heard",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Albert Heard",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "Albert Heard",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Richard Deacon",
+            "source": "Albert Heard",
+            "target": "Richard Deacon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Daniel Weld",
+            "source": "Albert Heard",
+            "target": "Daniel Weld"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Albert Heard",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "George Frederick Weller",
+            "source": "Albert Heard",
+            "target": "George Frederick Weller"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "John William Wood",
+            "source": "Albert Heard",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "J S Cunningham",
+            "source": "Albert Heard",
+            "target": "J S Cunningham"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "William C Hunter",
+            "source": "Albert Heard",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "J W Hayward",
+            "source": "Albert Heard",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Franklin Blake",
+            "source": "Albert Heard",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "L H Stoddard",
+            "source": "Albert Heard",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Frederick Stone",
+            "source": "Albert Heard",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Albert Heard",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Charles Edward Parker",
+            "source": "Albert Heard",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Albert Heard",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Albert Heard",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "William J Loring",
+            "source": "Albert Heard",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "W O Forrester",
+            "source": "Albert Heard",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "J C d'Aquino",
+            "source": "Albert Heard",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "W Banker",
+            "source": "Albert Heard",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "James Jackson Jr",
+            "source": "Albert Heard",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "George B Dixwell",
+            "source": "George Heard",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "George Heard",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Robert Inglis Fearon",
+            "source": "George Heard",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "George Heard",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Richard Deacon",
+            "source": "George Heard",
+            "target": "Richard Deacon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "George Heard",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "John William Wood",
+            "source": "George Heard",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "William C Hunter",
+            "source": "George Heard",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "J W Hayward",
+            "source": "George Heard",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Franklin Blake",
+            "source": "George Heard",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Edward Gilchrist Low",
+            "source": "George Heard",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "John Nutt",
+            "source": "George Heard",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Marcos de Souza",
+            "source": "George Heard",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "L H Stoddard",
+            "source": "George Heard",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "George Heard",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Charles Edward Parker",
+            "source": "George Heard",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "Arthur O Gay",
+            "source": "George Heard",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "A A E de Silva",
+            "source": "George Heard",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "E de Chomus",
+            "source": "George Heard",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Heard",
+            "target_id": "E Dechamps",
+            "source": "George Heard",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "George B Dixwell",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Robert Inglis Fearon",
+            "source": "George B Dixwell",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "George B Dixwell",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Daniel Weld",
+            "source": "George B Dixwell",
+            "target": "Daniel Weld"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "John William Wood",
+            "source": "George B Dixwell",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "William C Hunter",
+            "source": "George B Dixwell",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "J W Hayward",
+            "source": "George B Dixwell",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Franklin Blake",
+            "source": "George B Dixwell",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "John Nutt",
+            "source": "George B Dixwell",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Marcos de Souza",
+            "source": "George B Dixwell",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "L H Stoddard",
+            "source": "George B Dixwell",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "George B Dixwell",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Charles Edward Parker",
+            "source": "George B Dixwell",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "George B Dixwell",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "George B Dixwell",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Arthur O Gay",
+            "source": "George B Dixwell",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "A A E de Silva",
+            "source": "George B Dixwell",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "William J Loring",
+            "source": "George B Dixwell",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "W O Forrester",
+            "source": "George B Dixwell",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "J C d'Aquino",
+            "source": "George B Dixwell",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "W Banker",
+            "source": "George B Dixwell",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "James Jackson Jr",
+            "source": "George B Dixwell",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "John William Wood",
+            "source": "Bernardo Duarte de Souza",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "J S Cunningham",
+            "source": "Bernardo Duarte de Souza",
+            "target": "J S Cunningham"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "John Nutt",
+            "source": "Bernardo Duarte de Souza",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Marcos de Souza",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "L H Stoddard",
+            "source": "Bernardo Duarte de Souza",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Charles Edward Parker",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Arthur O Gay",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "A A E de Silva",
+            "source": "Bernardo Duarte de Souza",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "E de Chomus",
+            "source": "Bernardo Duarte de Souza",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "E Dechamps",
+            "source": "Bernardo Duarte de Souza",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Robert Inglis Fearon",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "John William Wood",
+            "source": "Robert Inglis Fearon",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "J S Cunningham",
+            "source": "Robert Inglis Fearon",
+            "target": "J S Cunningham"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Robert Inglis Fearon",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "John Nutt",
+            "source": "Robert Inglis Fearon",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Marcos de Souza",
+            "source": "Robert Inglis Fearon",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "L H Stoddard",
+            "source": "Robert Inglis Fearon",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Charles Edward Parker",
+            "source": "Robert Inglis Fearon",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Arthur O Gay",
+            "source": "Robert Inglis Fearon",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "A A E de Silva",
+            "source": "Robert Inglis Fearon",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "E de Chomus",
+            "source": "Robert Inglis Fearon",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "E Dechamps",
+            "source": "Robert Inglis Fearon",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "H G Bridges",
+            "target_id": "Edward Gilchrist Low",
+            "source": "H G Bridges",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Richard Deacon",
+            "source": "Ebenezer Francis Parker",
+            "target": "Richard Deacon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Daniel Weld",
+            "source": "Ebenezer Francis Parker",
+            "target": "Daniel Weld"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Ebenezer Francis Parker",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "William C Hunter",
+            "source": "Ebenezer Francis Parker",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "J W Hayward",
+            "source": "Ebenezer Francis Parker",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Franklin Blake",
+            "source": "Ebenezer Francis Parker",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Frederick Stone",
+            "source": "Ebenezer Francis Parker",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Ebenezer Francis Parker",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Ebenezer Francis Parker",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Ebenezer Francis Parker",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "William J Loring",
+            "source": "Ebenezer Francis Parker",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "W O Forrester",
+            "source": "Ebenezer Francis Parker",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "J C d'Aquino",
+            "source": "Ebenezer Francis Parker",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "W Banker",
+            "source": "Ebenezer Francis Parker",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "James Jackson Jr",
+            "source": "Ebenezer Francis Parker",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Daniel Weld",
+            "source": "Richard Deacon",
+            "target": "Daniel Weld"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Richard Deacon",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "William C Hunter",
+            "source": "Richard Deacon",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "J W Hayward",
+            "source": "Richard Deacon",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Franklin Blake",
+            "source": "Richard Deacon",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Frederick Stone",
+            "source": "Richard Deacon",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Richard Deacon",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Richard Deacon",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Richard Deacon",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Richard Deacon",
+            "target_id": "James Jackson Jr",
+            "source": "Richard Deacon",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "Henrique Caetano Victor de Figueiredo",
+            "source": "Daniel Weld",
+            "target": "Henrique Caetano Victor de Figueiredo"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "William C Hunter",
+            "source": "Daniel Weld",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "J W Hayward",
+            "source": "Daniel Weld",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "Franklin Blake",
+            "source": "Daniel Weld",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "Frederick Stone",
+            "source": "Daniel Weld",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Daniel Weld",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Daniel Weld",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Daniel Weld",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "William J Loring",
+            "source": "Daniel Weld",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "W O Forrester",
+            "source": "Daniel Weld",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "J C d'Aquino",
+            "source": "Daniel Weld",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "W Banker",
+            "source": "Daniel Weld",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Daniel Weld",
+            "target_id": "James Jackson Jr",
+            "source": "Daniel Weld",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "John William Wood",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "John William Wood"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "William C Hunter",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "J W Hayward",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Franklin Blake",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "John Nutt",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "L H Stoddard",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Charles Edward Parker",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "Arthur O Gay",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "A A E de Silva",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "E de Chomus",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Henrique Caetano Victor de Figueiredo",
+            "target_id": "E Dechamps",
+            "source": "Henrique Caetano Victor de Figueiredo",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "J S Cunningham",
+            "source": "George Frederick Weller",
+            "target": "J S Cunningham"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "William C Hunter",
+            "source": "George Frederick Weller",
+            "target": "William C Hunter"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "Andrew Marcus Daly",
+            "source": "George Frederick Weller",
+            "target": "Andrew Marcus Daly"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "Edward Gilchrist Low",
+            "source": "George Frederick Weller",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "George Frederick Weller",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "George Frederick Weller",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "George Frederick Weller",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "G W Webb",
+            "source": "George Frederick Weller",
+            "target": "G W Webb"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "J C d'Aquino",
+            "source": "George Frederick Weller",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George Frederick Weller",
+            "target_id": "James Jackson Jr",
+            "source": "George Frederick Weller",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "J S Cunningham",
+            "source": "John William Wood",
+            "target": "J S Cunningham"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "Edward Gilchrist Low",
+            "source": "John William Wood",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "John Nutt",
+            "source": "John William Wood",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "Marcos de Souza",
+            "source": "John William Wood",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "L H Stoddard",
+            "source": "John William Wood",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "Charles Edward Parker",
+            "source": "John William Wood",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "Arthur O Gay",
+            "source": "John William Wood",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "A A E de Silva",
+            "source": "John William Wood",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "E de Chomus",
+            "source": "John William Wood",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John William Wood",
+            "target_id": "E Dechamps",
+            "source": "John William Wood",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J S Cunningham",
+            "target_id": "Andrew Marcus Daly",
+            "source": "J S Cunningham",
+            "target": "Andrew Marcus Daly"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "J W Hayward",
+            "source": "William C Hunter",
+            "target": "J W Hayward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "Franklin Blake",
+            "source": "William C Hunter",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "Frederick Stone",
+            "source": "William C Hunter",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "William C Hunter",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "William C Hunter",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "William C Hunter",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "William J Loring",
+            "source": "William C Hunter",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "W O Forrester",
+            "source": "William C Hunter",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "J C d'Aquino",
+            "source": "William C Hunter",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "W Banker",
+            "source": "William C Hunter",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William C Hunter",
+            "target_id": "James Jackson Jr",
+            "source": "William C Hunter",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "Franklin Blake",
+            "source": "J W Hayward",
+            "target": "Franklin Blake"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "Frederick Stone",
+            "source": "J W Hayward",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "J W Hayward",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "J W Hayward",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "J W Hayward",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "William J Loring",
+            "source": "J W Hayward",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "W O Forrester",
+            "source": "J W Hayward",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "J C d'Aquino",
+            "source": "J W Hayward",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "W Banker",
+            "source": "J W Hayward",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J W Hayward",
+            "target_id": "James Jackson Jr",
+            "source": "J W Hayward",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "Frederick Stone",
+            "source": "Franklin Blake",
+            "target": "Frederick Stone"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Franklin Blake",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Franklin Blake",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Franklin Blake",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "William J Loring",
+            "source": "Franklin Blake",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "W O Forrester",
+            "source": "Franklin Blake",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "J C d'Aquino",
+            "source": "Franklin Blake",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "W Banker",
+            "source": "Franklin Blake",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Franklin Blake",
+            "target_id": "James Jackson Jr",
+            "source": "Franklin Blake",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Andrew Marcus Daly",
+            "target_id": "Edward Gilchrist Low",
+            "source": "Andrew Marcus Daly",
+            "target": "Edward Gilchrist Low"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Andrew Marcus Daly",
+            "target_id": "G W Webb",
+            "source": "Andrew Marcus Daly",
+            "target": "G W Webb"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "John Nutt",
+            "source": "Edward Gilchrist Low",
+            "target": "John Nutt"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "L H Stoddard",
+            "source": "Edward Gilchrist Low",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "Charles Edward Parker",
+            "source": "Edward Gilchrist Low",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "Arthur O Gay",
+            "source": "Edward Gilchrist Low",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "A A E de Silva",
+            "source": "Edward Gilchrist Low",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "E de Chomus",
+            "source": "Edward Gilchrist Low",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Gilchrist Low",
+            "target_id": "E Dechamps",
+            "source": "Edward Gilchrist Low",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "Marcos de Souza",
+            "source": "John Nutt",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "L H Stoddard",
+            "source": "John Nutt",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "Charles Edward Parker",
+            "source": "John Nutt",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "Arthur O Gay",
+            "source": "John Nutt",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "A A E de Silva",
+            "source": "John Nutt",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "E de Chomus",
+            "source": "John Nutt",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Nutt",
+            "target_id": "E Dechamps",
+            "source": "John Nutt",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "C D Williams",
+            "target_id": "Marcos de Souza",
+            "source": "C D Williams",
+            "target": "Marcos de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "C D Williams",
+            "target_id": "H E Amoore",
+            "source": "C D Williams",
+            "target": "H E Amoore"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Marcos de Souza",
+            "target_id": "L H Stoddard",
+            "source": "Marcos de Souza",
+            "target": "L H Stoddard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Marcos de Souza",
+            "target_id": "Charles Edward Parker",
+            "source": "Marcos de Souza",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Marcos de Souza",
+            "target_id": "Arthur O Gay",
+            "source": "Marcos de Souza",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Marcos de Souza",
+            "target_id": "H E Amoore",
+            "source": "Marcos de Souza",
+            "target": "H E Amoore"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Marcos de Souza",
+            "target_id": "A A E de Silva",
+            "source": "Marcos de Souza",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "L H Stoddard",
+            "target_id": "Charles Edward Parker",
+            "source": "L H Stoddard",
+            "target": "Charles Edward Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "L H Stoddard",
+            "target_id": "Arthur O Gay",
+            "source": "L H Stoddard",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "L H Stoddard",
+            "target_id": "A A E de Silva",
+            "source": "L H Stoddard",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "L H Stoddard",
+            "target_id": "E de Chomus",
+            "source": "L H Stoddard",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "L H Stoddard",
+            "target_id": "E Dechamps",
+            "source": "L H Stoddard",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Eugene M van Reed",
+            "target_id": "Arthur O Gay",
+            "source": "Eugene M van Reed",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Eugene M van Reed",
+            "target_id": "C D Mugford",
+            "source": "Eugene M van Reed",
+            "target": "C D Mugford"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Eugene M van Reed",
+            "target_id": "Henry Grove Grady",
+            "source": "Eugene M van Reed",
+            "target": "Henry Grove Grady"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Frederick Stone",
+            "target_id": "Francisco Antonio Seabra",
+            "source": "Frederick Stone",
+            "target": "Francisco Antonio Seabra"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Frederick Stone",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Frederick Stone",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Frederick Stone",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Frederick Stone",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Frederick Stone",
+            "target_id": "James Jackson Jr",
+            "source": "Frederick Stone",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "source": "Francisco Antonio Seabra",
+            "target": "Ol\u00edmpi\u00f3 Augusto da Cruz"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Francisco Antonio Seabra",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "William J Loring",
+            "source": "Francisco Antonio Seabra",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "W O Forrester",
+            "source": "Francisco Antonio Seabra",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "J C d'Aquino",
+            "source": "Francisco Antonio Seabra",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "W Banker",
+            "source": "Francisco Antonio Seabra",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Francisco Antonio Seabra",
+            "target_id": "James Jackson Jr",
+            "source": "Francisco Antonio Seabra",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "Arthur O Gay",
+            "source": "Charles Edward Parker",
+            "target": "Arthur O Gay"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "A A E de Silva",
+            "source": "Charles Edward Parker",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "E de Chomus",
+            "source": "Charles Edward Parker",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles Edward Parker",
+            "target_id": "E Dechamps",
+            "source": "Charles Edward Parker",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "In\u00e1cio Pires Pereira Jr",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "In\u00e1cio Pires Pereira Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "William J Loring",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "W O Forrester",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "J C d'Aquino",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "W Banker",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target_id": "James Jackson Jr",
+            "source": "Ol\u00edmpi\u00f3 Augusto da Cruz",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "In\u00e1cio Pires Pereira Jr",
+            "target_id": "William J Loring",
+            "source": "In\u00e1cio Pires Pereira Jr",
+            "target": "William J Loring"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "In\u00e1cio Pires Pereira Jr",
+            "target_id": "W O Forrester",
+            "source": "In\u00e1cio Pires Pereira Jr",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "In\u00e1cio Pires Pereira Jr",
+            "target_id": "J C d'Aquino",
+            "source": "In\u00e1cio Pires Pereira Jr",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "In\u00e1cio Pires Pereira Jr",
+            "target_id": "W Banker",
+            "source": "In\u00e1cio Pires Pereira Jr",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "In\u00e1cio Pires Pereira Jr",
+            "target_id": "James Jackson Jr",
+            "source": "In\u00e1cio Pires Pereira Jr",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Arthur O Gay",
+            "target_id": "A A E de Silva",
+            "source": "Arthur O Gay",
+            "target": "A A E de Silva"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Arthur O Gay",
+            "target_id": "E de Chomus",
+            "source": "Arthur O Gay",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Arthur O Gay",
+            "target_id": "C D Mugford",
+            "source": "Arthur O Gay",
+            "target": "C D Mugford"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Arthur O Gay",
+            "target_id": "Henry Grove Grady",
+            "source": "Arthur O Gay",
+            "target": "Henry Grove Grady"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Arthur O Gay",
+            "target_id": "E Dechamps",
+            "source": "Arthur O Gay",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "A A E de Silva",
+            "target_id": "E de Chomus",
+            "source": "A A E de Silva",
+            "target": "E de Chomus"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "A A E de Silva",
+            "target_id": "E Dechamps",
+            "source": "A A E de Silva",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William J Loring",
+            "target_id": "W O Forrester",
+            "source": "William J Loring",
+            "target": "W O Forrester"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William J Loring",
+            "target_id": "J C d'Aquino",
+            "source": "William J Loring",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William J Loring",
+            "target_id": "W Banker",
+            "source": "William J Loring",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William J Loring",
+            "target_id": "James Jackson Jr",
+            "source": "William J Loring",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "W O Forrester",
+            "target_id": "J C d'Aquino",
+            "source": "W O Forrester",
+            "target": "J C d'Aquino"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "W O Forrester",
+            "target_id": "W Banker",
+            "source": "W O Forrester",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "W O Forrester",
+            "target_id": "James Jackson Jr",
+            "source": "W O Forrester",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J C d'Aquino",
+            "target_id": "W Banker",
+            "source": "J C d'Aquino",
+            "target": "W Banker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "J C d'Aquino",
+            "target_id": "James Jackson Jr",
+            "source": "J C d'Aquino",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E de Chomus",
+            "target_id": "E Dechamps",
+            "source": "E de Chomus",
+            "target": "E Dechamps"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "W Banker",
+            "target_id": "James Jackson Jr",
+            "source": "W Banker",
+            "target": "James Jackson Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "C D Mugford",
+            "target_id": "Henry Grove Grady",
+            "source": "C D Mugford",
+            "target": "Henry Grove Grady"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Edward Rohl",
+            "target_id": "Gustave Rohl",
+            "source": "Edward Rohl",
+            "target": "Gustave Rohl"
+        }
+    ]
+}

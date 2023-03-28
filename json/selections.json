@@ -1,0 +1,73 @@
+{
+    "companies": [
+        "",
+        "Augustine Heard & Company",
+        "Borneo Company Ltd",
+        "China Traders Insurance Company",
+        "Comptoir d'escompte de Paris",
+        "Deacon & Company",
+        "Duddell & Company",
+        "Gassett & Company",
+        "Heard & Co",
+        "Hong Kong and Shanghai Bank",
+        "Hong Kong, Canton & Macao Steamboat Company",
+        "Hughes, Willgoss & Company",
+        "Jardine, Matheson & Company",
+        "John Burd & Company",
+        "Meller & Company",
+        "Murrow & Company",
+        "Ray & Company",
+        "Russell & Company",
+        "Thomas Hunt & Company",
+        "Victoria Fire Insurance Company",
+        "Wetmore & Company"
+    ],
+    "nationalaffiliations": [
+        "",
+        "Britain",
+        "France",
+        "Hong Kong",
+        "USA"
+    ],
+    "locations": [
+        "Bangkok",
+        "Beijing",
+        "Boston",
+        "Cairo",
+        "Fuzhou",
+        "Guangzhou",
+        "Hankou",
+        "Hong Kong",
+        "Jiujiang",
+        "Kobe",
+        "London",
+        "Macau",
+        "Monaco",
+        "Ningbo",
+        "Shanghai",
+        "Tianjin",
+        "Xiamen",
+        "Yokohama"
+    ],
+    "occupations": [
+        "",
+        "Agent",
+        "Broker",
+        "Cerk",
+        "Clerk",
+        "Merchant",
+        "Partner",
+        "Secretary",
+        "Tea Inspector",
+        "US Consul"
+    ],
+    "nationalities": [
+        "",
+        "American",
+        "British",
+        "German",
+        "Macanese",
+        "Russian",
+        "Scottish"
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Everett",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Merchant",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Everett"
+        },
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Ernest",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ernest Deacon"
+        },
+        {
+            "details": {
+                "Surname": "MacAndrew",
+                "GivenName": "Lewis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Lewis MacAndrew"
+        },
+        {
+            "details": {
+                "Surname": "Parker",
+                "GivenName": "Ebenezer Francis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Ebenezer Francis Parker"
+        },
+        {
+            "details": {
+                "Surname": "Comstock",
+                "GivenName": "William",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Fuzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Comstock Jr"
+        },
+        {
+            "details": {
+                "Surname": "Orne",
+                "GivenName": "Charles W",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Russell & Company"
+            },
+            "id": "Charles W Orne"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "Ebenezer Francis Parker",
+            "source": "John Everett",
+            "target": "Ebenezer Francis Parker"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "William Comstock Jr",
+            "source": "John Everett",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ernest Deacon",
+            "target_id": "Lewis MacAndrew",
+            "source": "Ernest Deacon",
+            "target": "Lewis MacAndrew"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ernest Deacon",
+            "target_id": "William Comstock Jr",
+            "source": "Ernest Deacon",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "William Comstock Jr",
+            "source": "Lewis MacAndrew",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Ebenezer Francis Parker",
+            "target_id": "William Comstock Jr",
+            "source": "Ebenezer Francis Parker",
+            "target": "William Comstock Jr"
+        }
+    ]
+}

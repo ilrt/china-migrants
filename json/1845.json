@@ -1,0 +1,124 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Augustine",
+                "Suffix": "Sr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Boston",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Augustine Heard Sr"
+        },
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Heard"
+        },
+        {
+            "details": {
+                "Surname": "Dixwell",
+                "GivenName": "George B",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "George B Dixwell"
+        },
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Oliver E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Oliver E Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Clark",
+                "GivenName": "C",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Murrow & Company"
+            },
+            "id": "C Clark"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Sr",
+            "target_id": "John Heard",
+            "source": "Augustine Heard Sr",
+            "target": "John Heard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Sr",
+            "target_id": "George B Dixwell",
+            "source": "Augustine Heard Sr",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "George B Dixwell",
+            "source": "John Heard",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Oliver E Roberts",
+            "source": "John Heard",
+            "target": "Oliver E Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Oliver E Roberts",
+            "source": "George B Dixwell",
+            "target": "Oliver E Roberts"
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Augustine",
+                "Suffix": "Sr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Boston",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Augustine Heard Sr"
+        },
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Heard"
+        },
+        {
+            "details": {
+                "Surname": "Dixwell",
+                "GivenName": "George B",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "George B Dixwell"
+        },
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Joseph L",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Joseph L Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Roberts",
+                "GivenName": "Oliver E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Hong Kong",
+                "Company": "Wetmore & Company"
+            },
+            "id": "Oliver E Roberts"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "Charles A",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Charles A Fearon"
+        },
+        {
+            "details": {
+                "Surname": "Gilbert",
+                "GivenName": "William",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Gilbert"
+        },
+        {
+            "details": {
+                "Surname": "Brinley",
+                "GivenName": "Charles H",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Charles H Brinley"
+        },
+        {
+            "details": {
+                "Surname": "Marques",
+                "GivenName": "Domingos P",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Domingos P Marques"
+        },
+        {
+            "details": {
+                "Surname": "Ward",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Ward"
+        },
+        {
+            "details": {
+                "Surname": "Clark",
+                "GivenName": "C",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "C Clark"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Sr",
+            "target_id": "John Heard",
+            "source": "Augustine Heard Sr",
+            "target": "John Heard"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Augustine Heard Sr",
+            "target_id": "George B Dixwell",
+            "source": "Augustine Heard Sr",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "George B Dixwell",
+            "source": "John Heard",
+            "target": "George B Dixwell"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Joseph L Roberts",
+            "source": "John Heard",
+            "target": "Joseph L Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Oliver E Roberts",
+            "source": "John Heard",
+            "target": "Oliver E Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "William Gilbert",
+            "source": "John Heard",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Charles H Brinley",
+            "source": "John Heard",
+            "target": "Charles H Brinley"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "Domingos P Marques",
+            "source": "John Heard",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "John Ward",
+            "source": "John Heard",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Heard",
+            "target_id": "C Clark",
+            "source": "John Heard",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Joseph L Roberts",
+            "source": "George B Dixwell",
+            "target": "Joseph L Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Oliver E Roberts",
+            "source": "George B Dixwell",
+            "target": "Oliver E Roberts"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "William Gilbert",
+            "source": "George B Dixwell",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Charles H Brinley",
+            "source": "George B Dixwell",
+            "target": "Charles H Brinley"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "Domingos P Marques",
+            "source": "George B Dixwell",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "John Ward",
+            "source": "George B Dixwell",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "George B Dixwell",
+            "target_id": "C Clark",
+            "source": "George B Dixwell",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "William Gilbert",
+            "source": "Joseph L Roberts",
+            "target": "William Gilbert"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "Charles H Brinley",
+            "source": "Joseph L Roberts",
+            "target": "Charles H Brinley"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "Domingos P Marques",
+            "source": "Joseph L Roberts",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "John Ward",
+            "source": "Joseph L Roberts",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Joseph L Roberts",
+            "target_id": "C Clark",
+            "source": "Joseph L Roberts",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Oliver E Roberts",
+            "target_id": "Charles H Brinley",
+            "source": "Oliver E Roberts",
+            "target": "Charles H Brinley"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "Charles H Brinley",
+            "source": "William Gilbert",
+            "target": "Charles H Brinley"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "Domingos P Marques",
+            "source": "William Gilbert",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "John Ward",
+            "source": "William Gilbert",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "William Gilbert",
+            "target_id": "C Clark",
+            "source": "William Gilbert",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles H Brinley",
+            "target_id": "Domingos P Marques",
+            "source": "Charles H Brinley",
+            "target": "Domingos P Marques"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles H Brinley",
+            "target_id": "John Ward",
+            "source": "Charles H Brinley",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Charles H Brinley",
+            "target_id": "C Clark",
+            "source": "Charles H Brinley",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Domingos P Marques",
+            "target_id": "John Ward",
+            "source": "Domingos P Marques",
+            "target": "John Ward"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Domingos P Marques",
+            "target_id": "C Clark",
+            "source": "Domingos P Marques",
+            "target": "C Clark"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Ward",
+            "target_id": "C Clark",
+            "source": "John Ward",
+            "target": "C Clark"
+        }
+    ]
+}

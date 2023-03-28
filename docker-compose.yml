@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  jupyter-cli:
+    image: jupyter-cli
+    build: .
+    volumes:
+      - .:/notebooks
+    command:  /notebooks/ChinaMigrants.ipynb

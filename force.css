@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Open + Sans);
+
+.nodes circle {
+  cursor: pointer;
+  fill: #ff3399;
+  stroke: #000;
+  stroke-width: 0.5px;
+}
+
+.links line {
+  fill: none;
+  stroke: #333;
+  stroke-width: 1px;
+}
+

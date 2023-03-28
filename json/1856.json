@@ -1,0 +1,452 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Heard",
+                "GivenName": "Albert",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Albert Heard"
+        },
+        {
+            "details": {
+                "Surname": "Everett",
+                "GivenName": "John",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Merchant",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "John Everett"
+        },
+        {
+            "details": {
+                "Surname": "MacAndrew",
+                "GivenName": "Lewis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Lewis MacAndrew"
+        },
+        {
+            "details": {
+                "Surname": "Stuart",
+                "GivenName": "E",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "E Stuart"
+        },
+        {
+            "details": {
+                "Surname": "de Souza",
+                "GivenName": "Bernardo Duarte",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": {
+                "Surname": "de Souza",
+                "GivenName": "D A",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "D A de Souza"
+        },
+        {
+            "details": {
+                "Surname": "Case",
+                "GivenName": "Andrew Julien",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Andrew Julien Case"
+        },
+        {
+            "details": {
+                "Surname": "Fearon",
+                "GivenName": "Robert Inglis",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Robert Inglis Fearon"
+        },
+        {
+            "details": {
+                "Surname": "Severs",
+                "GivenName": "Henry Hemsley",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "Henry Hemsley Severs"
+        },
+        {
+            "details": {
+                "Surname": "Comstock",
+                "GivenName": "William",
+                "Suffix": "Jr",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Partner",
+                "Location": "Guangzhou",
+                "Company": "Augustine Heard & Company"
+            },
+            "id": "William Comstock Jr"
+        },
+        {
+            "details": {
+                "Surname": "Orne",
+                "GivenName": "Charles W",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Russell & Company"
+            },
+            "id": "Charles W Orne"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Lewis MacAndrew",
+            "source": "Albert Heard",
+            "target": "Lewis MacAndrew"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "E Stuart",
+            "source": "Albert Heard",
+            "target": "E Stuart"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "Albert Heard",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "D A de Souza",
+            "source": "Albert Heard",
+            "target": "D A de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Andrew Julien Case",
+            "source": "Albert Heard",
+            "target": "Andrew Julien Case"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Albert Heard",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Albert Heard",
+            "target_id": "Henry Hemsley Severs",
+            "source": "Albert Heard",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "John Everett",
+            "target_id": "William Comstock Jr",
+            "source": "John Everett",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "E Stuart",
+            "source": "Lewis MacAndrew",
+            "target": "E Stuart"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "Lewis MacAndrew",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "D A de Souza",
+            "source": "Lewis MacAndrew",
+            "target": "D A de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "Andrew Julien Case",
+            "source": "Lewis MacAndrew",
+            "target": "Andrew Julien Case"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Lewis MacAndrew",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "Henry Hemsley Severs",
+            "source": "Lewis MacAndrew",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Lewis MacAndrew",
+            "target_id": "William Comstock Jr",
+            "source": "Lewis MacAndrew",
+            "target": "William Comstock Jr"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E Stuart",
+            "target_id": "Bernardo Duarte de Souza",
+            "source": "E Stuart",
+            "target": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E Stuart",
+            "target_id": "D A de Souza",
+            "source": "E Stuart",
+            "target": "D A de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E Stuart",
+            "target_id": "Andrew Julien Case",
+            "source": "E Stuart",
+            "target": "Andrew Julien Case"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E Stuart",
+            "target_id": "Robert Inglis Fearon",
+            "source": "E Stuart",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "E Stuart",
+            "target_id": "Henry Hemsley Severs",
+            "source": "E Stuart",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "D A de Souza",
+            "source": "Bernardo Duarte de Souza",
+            "target": "D A de Souza"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Andrew Julien Case",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Andrew Julien Case"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Bernardo Duarte de Souza",
+            "target_id": "Henry Hemsley Severs",
+            "source": "Bernardo Duarte de Souza",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "D A de Souza",
+            "target_id": "Andrew Julien Case",
+            "source": "D A de Souza",
+            "target": "Andrew Julien Case"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "D A de Souza",
+            "target_id": "Robert Inglis Fearon",
+            "source": "D A de Souza",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "D A de Souza",
+            "target_id": "Henry Hemsley Severs",
+            "source": "D A de Souza",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Andrew Julien Case",
+            "target_id": "Robert Inglis Fearon",
+            "source": "Andrew Julien Case",
+            "target": "Robert Inglis Fearon"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Andrew Julien Case",
+            "target_id": "Henry Hemsley Severs",
+            "source": "Andrew Julien Case",
+            "target": "Henry Hemsley Severs"
+        },
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Robert Inglis Fearon",
+            "target_id": "Henry Hemsley Severs",
+            "source": "Robert Inglis Fearon",
+            "target": "Henry Hemsley Severs"
+        }
+    ]
+}

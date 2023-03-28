@@ -1,0 +1,84 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "details": {
+                "Surname": "Deacon",
+                "GivenName": "Ernest",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "British",
+                "Occupation": "Partner",
+                "Location": "Macau",
+                "Company": "Deacon & Company"
+            },
+            "id": "Ernest Deacon"
+        },
+        {
+            "details": {
+                "Surname": "de Souza",
+                "GivenName": "Bernardo Duarte",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Cerk",
+                "Location": "Shanghai",
+                "Company": "Hong Kong and Shanghai Bank"
+            },
+            "id": "Bernardo Duarte de Souza"
+        },
+        {
+            "details": {
+                "Surname": "Cheshire",
+                "GivenName": "Fleming D",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "",
+                "Location": "Guangzhou",
+                "Company": ""
+            },
+            "id": "Fleming D Cheshire"
+        },
+        {
+            "details": {
+                "Surname": "Jorge",
+                "GivenName": "Honorato",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "Macanese",
+                "Occupation": "Clerk",
+                "Location": "Shanghai",
+                "Company": "Comptoir d'escompte de Paris"
+            },
+            "id": "Honorato Jorge"
+        },
+        {
+            "details": {
+                "Surname": "Ray",
+                "GivenName": "William Henry",
+                "Suffix": "",
+                "Gender": "Male",
+                "Nationality": "American",
+                "Occupation": "Secretary",
+                "Location": "Hong Kong",
+                "Company": "China Traders Insurance Company"
+            },
+            "id": "William Henry Ray"
+        }
+    ],
+    "links": [
+        {
+            "details": [
+                "weight",
+                1
+            ],
+            "source_id": "Fleming D Cheshire",
+            "target_id": "William Henry Ray",
+            "source": "Fleming D Cheshire",
+            "target": "William Henry Ray"
+        }
+    ]
+}
